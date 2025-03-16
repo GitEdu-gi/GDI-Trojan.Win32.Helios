@@ -6,4 +6,4 @@ Destrutivo: SIM
 <br>
 Bytebeats:Edu, indoamanso
 <br>
-Dependencias:[.NET Framework 4.0](https://www.microsoft.com/pt-br/download/details.aspx?id=17718) 
+Dependencias: [.NET Framework 4.0](https://www.microsoft.com/pt-br/download/details.aspx?id=17718) 
