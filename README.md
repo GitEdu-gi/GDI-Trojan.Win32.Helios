@@ -1,4 +1,7 @@
 # GDI-Trojan.Win32.Helios
-## Linguagen: C#
-<br>;
-### Bytebeats:Edu, Indoamanso
+## Criador: Edu
+<br>
+Linguagen: C#
+<br> 
+Destrutivo: SIM
+<br>
