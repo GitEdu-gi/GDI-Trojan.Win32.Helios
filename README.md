@@ -1,5 +1,5 @@
 # GDI-Trojan.Win32.Helios
-## Criador: Edu
+Criador: Edu
 Linguagen: C#
 <br> 
 Destrutivo: SIM
