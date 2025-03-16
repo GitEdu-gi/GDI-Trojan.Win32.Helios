@@ -60,7 +60,7 @@ namespace Helios
             {
                 Point point;
                 GetCursorPos(out point);
-                HDC hdc = GetDC(HWND.NULL);
+                var hdc = GetDC(HWND.NULL);
                 DrawIcon(hdc, point.X, point.Y,hICON);
                 DeleteDC(hdc);
                 ReleaseDC(HWND.NULL, hdc);
