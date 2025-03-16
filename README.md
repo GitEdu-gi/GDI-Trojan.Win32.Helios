@@ -1,4 +1,4 @@
 # GDI-Trojan.Win32.Helios
-Linguagen: C#
+## Linguagen: C#
 <br>
-Bytebeats:Edu, Indoamanso
+## Bytebeats:Edu, Indoamanso
