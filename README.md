@@ -1,10 +1,10 @@
 # GDI-Trojan.Win32.Helios
-Criador: Edu
+## Criador: Edu
 <br><br>
-Linguagen: C#
+## Linguagen: C#
 <br> <br>
-Destrutivo: SIM
+## Destrutivo: SIM
 <br><br>
-Bytebeats:Edu, indoamanso
+## Bytebeats: Edu, indoamanso
 <br><br>
-Dependencias: [.NET Framework 4.0](https://www.microsoft.com/pt-br/download/details.aspx?id=17718) 
+## Dependencias: [.NET Framework 4.0](https://www.microsoft.com/pt-br/download/details.aspx?id=17718) 
